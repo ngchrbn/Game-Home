@@ -1,0 +1,29 @@
+.welcome-page {
+    margin: 0;
+    position: relative;
+    img {
+        width: 97vw;
+        height: 65vh;
+    }
+
+    div {
+        margin: auto 20%;
+        position: absolute;
+        top: 6em;
+        text-align: center;
+        text-transform: uppercase;
+        font-weight: 900;
+        font-size: 2rem;
+        color: rgb(61, 4, 4);
+        text-shadow: 1px 1px 5px white;
+    }
+}
+
+.boxes {
+    position: absolute;
+    top: 27em;
+    margin: 10% 10%;
+    background-color: #fff;
+    text-align: center;
+    padding: .4em;
+}
